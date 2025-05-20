@@ -28,11 +28,11 @@ It must have at least the following two columns:
 
 ---
 ## screenshots of the outputs:
-![Sentiment Analysis Screenshot](a1.png)
-![Sentiment Analysis Screenshot](b1.png)
-![Sentiment Analysis Screenshot](c1.png)
-![Sentiment Analysis Screenshot](d1.png)
-![Sentiment Analysis Screenshot](e1.png)
+![Sentiment Analysis Using NLP Techniques](a1.png)
+![Sentiment Analysis Using NLP Techniques](b1.png)
+![Sentiment Analysis Using NLP Techniques](c1.png)
+![Sentiment Analysis Using NLP Techniques](d1.png)
+![Sentiment Analysis Using NLP Techniques](e1.png)
 
 
 ## 🧰 Requirements
